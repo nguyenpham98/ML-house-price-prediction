@@ -27,6 +27,7 @@ Luckily, pandas has a class get_dummies that basically separate those unique val
 
 We have successfully cleaned our data. At this point, I used median_house_value as a good independent variable for prediction and split the datasets with train:test ratio
 of 80:20. At first attempt to make prediction, Random Forest Regression got the following results:
+
 mean: 50262.43034696649
 std: 703.6384543708631
 
@@ -39,6 +40,7 @@ to my understanding.
 6/ Evaluation
 
 I fed my model with the test dataset that got the following result: 
+
 Mean Absolute Error: 32417.27453003876 
 Mean Squared Error: 2415034265.049032 
 Root Mean Squared Error: 49142.99812841126 
