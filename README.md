@@ -29,6 +29,7 @@ We have successfully cleaned our data. At this point, I used median_house_value 
 of 80:20. At first attempt to make prediction, Random Forest Regression got the following results:
 
 mean: 50262.43034696649
+
 std: 703.6384543708631
 
 5/ Parameter tuning
@@ -42,8 +43,11 @@ to my understanding.
 I fed my model with the test dataset that got the following result: 
 
 Mean Absolute Error: 32417.27453003876 
+
 Mean Squared Error: 2415034265.049032 
+
 Root Mean Squared Error: 49142.99812841126 
+
 R2 score: 0.815703776061502
 
 
