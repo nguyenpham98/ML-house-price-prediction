@@ -3,6 +3,8 @@ for optimization
 
 Tools: sklearn, pandas, numpy, matplotlib, pickle
 
+Data source: https://www.kaggle.com/datasets/camnugent/california-housing-prices
+
 My processing steps:
 
 1/ Clean Data
